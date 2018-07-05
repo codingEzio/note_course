@@ -26,6 +26,9 @@
     | 從頭開始 | 應用軟件 | 
     | 用現有的物件 | 系統軟件 <small>( OS 級別 )</small> | 
 
+- SoC
+    - 全稱 <small>*System on Chip*</small> 
+    - 其由軟硬件兩部分組成<br>可看做 *迷你主機板*, *集成電路*.
 
 ### Lec 02 
 
@@ -34,10 +37,26 @@
 - FPGA
 - 燒錄
 
-### 術語
 
-| 名詞 | 含義 | 
-| --- | --- | 
-| SoC | 全稱 <small>*System on Chip*</small>, 其由軟硬件兩部分組成<br>可看做 *迷你主機板*, *集成電路* <br>樹莓派本身即可稱為 SoC <small>(I guess)</small> |
-|  |   |
-|  |   |
+### Lec 03
+
+- Embedded Toolchain
+- 流程
+    - C code
+    - Assembler Compiler 
+    - Debugger (in host)
+    - Emulation Hardware (like iPhone X in XCode)
+
+- Toolchain 
+    - Console 
+        - GNU toolchain
+            - gcc -- a cross-compiler
+            - binutils -- a set of tools for manipulating binaries
+            - glibc -- c-lib
+            - gdb --  debugger (ICE is required)
+
+    - IDE 
+        - ADS
+        - GNUPro
+
+### Lec 04 
