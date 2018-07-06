@@ -65,10 +65,13 @@
 
 ### Lec 05 
 
-- None 
+- The bootloader on PC is much more powerful that it should be.
+- ...
 
 <hr> 此段时间无法取到硬件进行实作 故没有详细的笔记内容 <hr>
 
 ### Lec 06 
 
-- 
+- makefile 
+- BSP <small>( Board support package )</small> 
+- ARM  
