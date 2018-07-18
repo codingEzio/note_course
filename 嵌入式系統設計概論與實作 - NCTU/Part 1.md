@@ -75,3 +75,7 @@
 - makefile 
 - BSP <small>( Board support package )</small> 
 - ARM  
+
+### Lec 07 
+
+- RISM 
