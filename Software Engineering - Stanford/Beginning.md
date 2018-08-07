@@ -5,8 +5,12 @@
 
 ### 共 28 节课
 - [x] Lecture 01 
-- [ ] Lecture 02 
-- [ ] Lecture 03 
+- [x] Lecture 02 
+- [x] Lecture 03 
+- [ ] Lecture 04 
+- [ ] Lecture 05 
+- [ ] Lecture 06
+- [ ] Lecture 07
 
 ### Ending-word
 - 完成状态会在这里更新 (checklist above)
