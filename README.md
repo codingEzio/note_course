@@ -2,6 +2,7 @@
 
 | Course | College | Platform | Link |  
 | --- | --- | --- | --- | 
+| The Human Brain | MIT | Youtube | [視頻](https://www.youtube.com/playlist?list=PLyGKBDfnk-iAQx4Kw9JeVqspbg77sfAK0) | 
 | Software Engineering | Stanford | Youtube | [視頻](https://www.youtube.com/playlist?list=PL3BD1325B3C4F50BE) / [講義](https://see.stanford.edu/Course/CS106A) | 
 | Introduction to Probability | Harvard | Edx | [視頻](https://courses.edx.org/courses/course-v1:HarvardX+STAT110x+2T2017/course/) |
 | Data Science Math Skills | Duke University | Coursera | [視頻](https://www.coursera.org/learn/datasciencemathskills/home/info) / [講義](https://www.coursera.org/learn/datasciencemathskills/resources/6C6Jc) | 
